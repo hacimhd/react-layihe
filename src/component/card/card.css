@@ -1,0 +1,26 @@
+.card{
+    padding: 15px;
+    margin-top: 30px;
+    width: 500px;
+    height: 190px;
+    background-color: #ffeedb;
+    display: flex;
+
+}
+.form-row{
+    display: flex;
+    flex-direction: column;
+}
+.card-title{
+    margin-left: 30px;
+}
+
+.card-btn{
+    margin-top: 10px;
+    border: none;
+    background-color: #496ddb;
+    padding: 10px 15px;
+    color: #ffeedb;
+    font-size: 14px;
+
+}

@@ -1,7 +1,8 @@
 form{
     display: flex;
-    width: calc(100%/12*3);
+    width: 500px;
     height: 150px;
+    
 
 }
 label{
@@ -9,13 +10,12 @@ label{
     margin-left: 3px;
 }
 .search{
-    width: 80px;
+    width: 70px;
     height: 30px;
-    transform: translateY(19px);
-
+    transform: translate(50%,20px);
 }
 input{
-    width: calc(100%/10*9);
+    width: 300px;
     height: 30px;
     box-sizing: border-box;
     outline: none;
