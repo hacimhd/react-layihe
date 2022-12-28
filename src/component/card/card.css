@@ -1,26 +1,24 @@
 .card{
-    padding: 15px;
-    margin-top: 30px;
-    width: 500px;
-    height: 190px;
-    background-color: #ffeedb;
+    width: 350px;
+    height: 160px;
+    background-color: coral;
+    margin-bottom:10px;
     display: flex;
-
 }
-.form-row{
-    display: flex;
-    flex-direction: column;
+.movieImg{
+    width: 120px;
+    height: 140px;
+    margin: 10px ;
 }
-.card-title{
-    margin-left: 30px;
+h1{
+    font-size: 18px;
+    margin-bottom: 20px;
 }
-
-.card-btn{
-    margin-top: 10px;
-    border: none;
-    background-color: #496ddb;
-    padding: 10px 15px;
-    color: #ffeedb;
-    font-size: 14px;
-
+.addListData{
+    background-color: blue;
+    color: white;
+    border: 1px solid gray;
+    width: 80px;
+    height: 30px;
+    border-radius: 2px;
 }
